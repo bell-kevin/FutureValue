@@ -41,6 +41,3 @@ public class FutureValue {
         System.out.println("After " + numberOfCycles + " cycles, it's worth $" + futureValue);
     }
 }
-
-
-}
